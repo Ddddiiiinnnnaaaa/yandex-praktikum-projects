@@ -1,16 +1,27 @@
+
 | **Название проекта** | **Описание** | **Используемые библиотеки** |**Статус проекта**|
 | :-------------------- |:--------------------- |:---------------------------|:-------------------- |
-|[AB тест внедрения улучшенной рекомендательной системы][1]| Используя имеющиеся данные - оценить корректность проведения теста, проанализировать результаты и дать рекомендации| _pandas numpy matplotlib seaborn scipy plotly math_ |```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```|
-|[Анализ бизнес-показателей приложения][2]|Несмотря на большие вложения в рекламу - выяснить причины убытков и дать рекомендации маркетинговому отделу  - на что обратить внимание при проведении следующих рекламных акций| _pandas numpy matplotlib seaborn_ |+завершен|
+|[Музыка больших городов][1]|На реальных данных Яндекс.Музыки проверить данные и сравнить поведение пользователей двух столиц - Москвы и Санкт-Петербурга| _pandas_ |**`ЗАКОНЧЕН`**|
+|[Исследование надежности заемщиков][4]|имея статистику о платежеспособности клиентов выяснить, влияет ли семейное положение и количество детей на факт погашения кредита в срок| _pandas_ |**`ЗАКОНЧЕН`**|
+|[Исследование объявлений о продаже квартир][5]| Имея в распоряжении данные сервиса Яндекc Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет - необходимо научиться определять рыночную стоимость объектов недвижимости | _pandas matplotlib_ |**`ЗАКОНЧЕН`**|
+|[Исследование тарифных планов сотового оператора][6]| Необходимо сделать предварительный анализ тарифов на небольшой выборке клиентов, проанализировать поведение клиентов и сделать вывод — какой тариф лучше. | _pandas matplotlib numpy scipy_ |**`ЗАКОНЧЕН`**|
+|[Исследовательский анализ успешности компьютерных игр][7]| На основе имеющихся данных необходимо выявить закономерности, определяющие успешность компьютерных игр. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании на следующий год.| _pandas numpy matplotlib seaborn scipy_ |**`ЗАКОНЧЕН`**|
+|[Анализ бизнес-показателей приложения][3]|Несмотря на большие вложения в рекламу - выяснить причины убытков и дать рекомендации маркетинговому отделу  - на что обратить внимание при проведении следующих рекламных акций| _pandas numpy matplotlib seaborn_ |**`ЗАКОНЧЕН`**|
+|[Анализ гипотез и А/В теста интернет-магазина][8]| Приоритизировать гипотезы, подготовленные совместно с отделом маркетинга, и проанализировать результаты А/В теста| _pandas numpy matplotlib scipy_ |**`ЗАКОНЧЕН`**|
+|[Исследование рынка заведений общественного питания в Москве][9]| Для привлечения инвестиций, необходимо исследовать текущее положение дел на рынке. Для анализа используем открытые данные о заведениях общественного питания в Москве.| _pandas matplotlib seaborn plotly_ |**`ЗАКОНЧЕН`**|
+
+
+|[Исследование рынка заведений общественного питания в Москве][2]| Используя имеющиеся данные - оценить корректность проведения теста, проанализировать результаты и дать рекомендации| _pandas numpy matplotlib seaborn scipy plotly math_ |**`ЗАКОНЧЕН`**|
 
 
 
 
-[1]:https://github.com/Ddddiiiinnnnaaaa/yandex-praktikum-projects/tree/main/AB%20%D1%82%D0%B5%D1%81%D1%82%20%D0%B2%D0%BD%D0%B5%D0%B4%D1%80%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B
-[2]:https://github.com/Ddddiiiinnnnaaaa/yandex-praktikum-projects/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F
+[1]:https://github.com/Ddddiiiinnnnaaaa/yandex-praktikum-projects/blob/main/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%20%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D1%85%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2/README.md  
+[2]:https://github.com/Ddddiiiinnnnaaaa/yandex-praktikum-projects/tree/main/AB%20%D1%82%D0%B5%D1%81%D1%82%20%D0%B2%D0%BD%D0%B5%D0%B4%D1%80%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B
+[3]:https://github.com/Ddddiiiinnnnaaaa/yandex-praktikum-projects/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F
+[4]:https://github.com/Ddddiiiinnnnaaaa/yandex-praktikum-projects/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D1%91%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2%20%E2%80%94%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D1%85%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85
+[5]:https://github.com/Ddddiiiinnnnaaaa/yandex-praktikum-projects/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80
+[6]:https://github.com/Ddddiiiinnnnaaaa/yandex-praktikum-projects/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%BD%D1%8B%D1%85%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%BE%D0%B2%20%D1%81%D0%BE%D1%82%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0
+[7]:https://github.com/Ddddiiiinnnnaaaa/yandex-praktikum-projects/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85%20%D0%B8%D0%B3%D1%80
+[8]:https://github.com/Ddddiiiinnnnaaaa/yandex-praktikum-projects/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%20%D0%B8%20%D0%90%D0%92%20%D1%82%D0%B5%D1%81%D1%82%D0%B0%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0
+[9]:https://github.com/Ddddiiiinnnnaaaa/yandex-praktikum-projects/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
